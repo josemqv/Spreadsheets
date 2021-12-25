@@ -1,0 +1,2 @@
+= RANK(B2,$B$2:$B$13, 1) ascending
+= RANK(B2,$B$2:$B$13, 0) descending
