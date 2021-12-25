@@ -1,0 +1,3 @@
+=DATEDIF(B2, NOW(), "D")
+
+=DATEDIF(B2, NOW(), "M")
