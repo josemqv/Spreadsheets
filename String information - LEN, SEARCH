@@ -1,0 +1,8 @@
+= SEARCH(" ", C2)
+
+= LEN(C2)
+
+
+= E2 - F2
+
+= RIGHT(C2, G2)
