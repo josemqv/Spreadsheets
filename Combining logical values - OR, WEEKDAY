@@ -1,0 +1,1 @@
+= OR(WEEKDAY(B14) = 1, WEEKDAY(B14) = 7)
