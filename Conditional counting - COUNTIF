@@ -1,0 +1,5 @@
+= COUNTIF($I$14:$I$44, H8)
+
+= COUNTIF($I$14:$I$44, H9)
+
+= COUNTIF($I$14:$I$44, H10)
