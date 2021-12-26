@@ -1,0 +1,9 @@
+= SUMIF($C$3:$C$26, G3, $D$3:$D$26)
+= SUMIF($C$3:$C$26, G4, $D$3:$D$26)
+= SUMIF($C$3:$C$26, G5, $D$3:$D$26)
+= SUMIF($C$3:$C$26, G6, $D$3:$D$26)
+= SUMIF($E$3:$E$26, G9, $D$3:$D$26)
+= SUMIF($E$3:$E$26, G10, $D$3:$D$26)
+= SUMIF($E$3:$E$26, G11, $D$3:$D$26)
+
+SUMIF(range, criterion, sum_range)
