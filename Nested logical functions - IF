@@ -1,0 +1,1 @@
+= IF(H14 < 0, "bad", IF(H14 < 150, "acceptable", "good"))
