@@ -1,0 +1,3 @@
+= VLOOKUP(C3, $B$15:$D$26, 2, FALSE)
+
+VLOOKUP(search_key, range, index, is_sorted)
