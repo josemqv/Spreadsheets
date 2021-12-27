@@ -1,0 +1,1 @@
+= VLOOKUP(C3, $B$15:$D$26,3, FALSE)
